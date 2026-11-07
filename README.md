@@ -4,7 +4,7 @@
 
 Um laboratório experimental na interseção entre música, percussão e programação.
 
-**Sobre**
+**Sobre**:
 Antes de programador, sou percussionista. Minha busca por novos grooves, timbres e samples me levou a explorar um universo que vai além dos instrumentos tradicionais: o universo dos algoritmos.
 
 O SonoraLabs nasce dessa curiosidade.
