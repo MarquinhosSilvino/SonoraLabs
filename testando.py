@@ -16,7 +16,7 @@ class SonicLab:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("SONIC LAB | Audio Experimentation")
+        self.root.title("SonoraLABS | Audio Experimentation")
         self.root.geometry("1100x700")
         self.root.minsize(850, 550)
 
